@@ -29,7 +29,7 @@
 
 <div align="center">
   <h2 align="center">Top Languages :computer: </h2>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=an0n1mity&thme=radical">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=an0n1mity&theme=radical">
 
 </div>
 
