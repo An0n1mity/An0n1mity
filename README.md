@@ -6,7 +6,7 @@
 <ul>
   <li>👋 Hi, I’m @An0n1mity</li>
   <li>👀  I’m a hobbyist who has a dedicated passion for computer science, development and cyber security. </li>
-  <li> :nerd_face: If I have the time, I post some of my discoveries and projects on a dedicated <a href="https://an0n1mity.com/">blog</a> <li>
+  <li> :nerd_face: If I have the time, I post some of my discoveries and projects on a dedicated <a href="https://an0n1mity.com/">blog.</a></li>
  </ul>
 
 <div align="center">
