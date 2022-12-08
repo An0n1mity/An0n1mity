@@ -24,12 +24,12 @@
 
 <div align="center">
   <h2 align="center">Github Stats 📊</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=an0n1mity&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=an0n1mity&show_icons=true&theme=radical">
 </div>
 
 <div align="center">
   <h2 align="center">Top Languages :computer: </h2>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=an0n1mity">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=an0n1mity&thme=radical">
 
 </div>
 
