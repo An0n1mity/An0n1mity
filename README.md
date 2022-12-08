@@ -2,10 +2,11 @@
   <img src="https://github.com/An0n1mity/An0n1mity/blob/main/49009949-modified.png" width="100"/>
 </div>
 
-<h2 align="center">Whoami</h3> 
+<h2 align="center">Whoami :thinking: </h3> 
 <ul>
   <li>👋 Hi, I’m @An0n1mity</li>
-  <li>👀 I’m interested in computer science and cyber security </li>
+  <li>👀  I’m a hobbyist who has a dedicated passion for computer science, development and cyber security. </li>
+  <li> :nerd_face: If I have the time, I post some of my discoveries and projects on a dedicated <a href="https://an0n1mity.com/">blog</a> <li>
  </ul>
 
 <div align="center">
