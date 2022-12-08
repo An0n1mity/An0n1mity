@@ -8,6 +8,7 @@
   If I have the time, I post some of my discoveries and projects on a dedicated <a href="https://an0n1mity.com/">blog</a>.</p>
 
 ### 🛠️ Languages and Tools 
+
 <p>
 <img align="left" alt="c" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> 
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" style="padding-right: 10px;"/>
@@ -22,13 +23,15 @@
 </br>
 </br>
 
+#
+
 <div align="center">
-  <h2 align="center">Github Stats 📊</h2>
+  <h3 align="center">Github Stats 📊</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=an0n1mity&show_icons=true&theme=radical">
 </div>
 
 <div align="center">
-  <h2 align="center">Top Languages :computer: </h2>
+  <h3 align="center">Top Languages :computer: </h3>
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=an0n1mity&theme=radical">
 
 </div>
