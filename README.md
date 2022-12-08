@@ -14,7 +14,6 @@
 <p allign="left">
 
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An0n1mity)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=An0n1mity)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 An0n1mity/An0n1mity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
