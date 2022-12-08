@@ -10,7 +10,7 @@
  </ul>
 
 <div align="center">
-  <h2 align="center">Github Stats :white_check_mark:</h2>
+  <h2 align="center">Github Stats 📊</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=an0n1mity&show_icons=true">
 </div>
 
