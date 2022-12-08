@@ -7,7 +7,7 @@
   <p>👋 Hi, I’m @An0n1mity ! I’m a hobbyist who has a dedicated passion for computer science, development and cyber security
   If I have the time, I post some of my discoveries and projects on a dedicated <a href="https://an0n1mity.com/">blog</a>.</p>
 
-### Languages and Tools 
+### 🛠️ Languages and Tools 
 <p>
 <img align="left" alt="c" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> 
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" style="padding-right: 10px;"/>
