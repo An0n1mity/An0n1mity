@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/An0n1mity/An0n1mity/blob/main/49009949-modified.png" width="100"/>
+  <img src="https://github.com/An0n1mity/An0n1mity/blob/main/banner(1).png" width=100%/>
 </div>
 
 # :surfer: An0n1mity 
