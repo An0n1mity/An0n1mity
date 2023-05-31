@@ -3,7 +3,7 @@
 </div>
 
 # :surfer: An0n1mity 
-**` Computer engineering student `**
+**` Computer engineering student `** **` passionate hobbyist `**
   <p>👋 Hey there, I'm @An0n1mity!</p> 
   <p>I'm not just your average computer science enthusiast—I'm a passionate hobbyist who lives and breathes technology. My coding adventures revolve around the captivating world of C/C++ and Python. Whenever inspiration strikes, I embark on a thrilling journey of turning ideas into reality, even if they end up being works in progress. </p>
 
