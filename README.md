@@ -4,8 +4,7 @@
 
 # :surfer: An0n1mity 
 **` Computer engineering student `**
-  <p>👋 Hi, I’m @An0n1mity ! I’m a hobbyist who has a dedicated passion for computer science, development and cyber security
-  If I have the time, I post some of my discoveries and projects on a dedicated <a href="https://an0n1mity.com/">blog</a>.</p>
+  <p>👋 Hi, I’m @An0n1mity ! I’m a hobbyist who has a dedicated passion for computer science in general.</p>
 
 ### 🛠️ Languages and Tools 
 
